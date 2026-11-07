@@ -1,77 +1,86 @@
-# Hi, I'm [Mahmoud] 👋
+# Hello, I'm Mahmoud
+<a href="https://www.linkedin.com/in/mahmoud-attia-a8b4b921b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mahmoud0548331473@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-### SOC Analyst | Threat Detection | Incident Response
+SOC Analyst focused on threat hunting, detection engineering, and SOC automation. I turn alerts and raw logs into clear answers: which host is infected, how the attacker got in, and how to contain it.
 
-I monitor, investigate, and respond to security threats. I enjoy turning raw logs into clear answers: finding what happened, how far it spread, and how to stop it from happening again.
+## Objective
 
-📍 [EGYPT] · 🌐 Open to [remote / relocation / on-site] roles
-📫 [mahmoud0548331473@gmail.com] · 💼 [https://www.linkedin.com/in/mahmoud-attia-a8b4b921b/]
+To grow as a SOC Analyst by investigating real-world attack chains, building detections from simulated attacks, and automating repetitive Level 1 work with SOAR workflows.
+
+## Skills
+
+| Skill | Associated Project |
+|-------|--------------------|
+| Network Threat Hunting and Infection Chain Reconstruction | <a href="[link]">Ursnif to TrickBot Threat Hunting</a> |
+| Phishing, Malware, and PCAP Investigation | <a href="[link]">FormBook and TeamViewer RAT Investigation</a> |
+| Detection Engineering and Attack Simulation (KQL, MITRE ATT&CK) | <a href="[link]">Elastic SIEM Detection Lab</a> |
+| SIEM Alert Triage and Log Correlation (Windows Event Logs, Sysmon) | <a href="[link]">Elastic SIEM Detection Lab</a> |
+| IOC Extraction and Threat Intelligence Enrichment | <a href="[link]">n8n SOC Automation Lab</a> |
+| Security Automation and SOAR (n8n, Python, REST APIs) | <a href="[link]">n8n SOC Automation Lab</a> |
+| Incident Reporting and Response Recommendations | <a href="[link]">Ursnif to TrickBot Threat Hunting</a> |
+
+## Tools
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM_QRadar-054ADA?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FortiSIEM-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security_Onion-1F1F1F?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-D1262B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sguil-4B275F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FortiAnalyzer-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+</div>
+
+### SOAR and Automation
+<div>
+    <img src="https://img.shields.io/badge/-n8n-EA4B71?&style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex_XSOAR-FA582D?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FortiSOAR-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+</div>
+
+### Threat Intelligence and Analysis
+<div>
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hybrid_Analysis-1E90FF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-5B9BD5?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-C8102E?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Systems and Lab
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<!-- Add only certifications you actually hold. Example: -->
+<!-- <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> -->
+</div>
+
+## Projects
+
+- <a href="[link]"><b>n8n SOC Alert Triage & SOAR Automation Lab</b></a>: automated alert collection, Python IPv4 IOC extraction, private/trusted IP filtering, VirusTotal enrichment, risk-based decisions, and Gmail escalation.
+- <a href="[link]"><b>Network Threat Hunting: Ursnif to TrickBot</b></a>: correlated Sguil alerts with PCAPs to reconstruct the infection chain (T1105, T1036.008, T1071.001).
+- <a href="[link]"><b>Phishing and PCAP Investigation: FormBook and TeamViewer RAT</b></a>: analyzed 2 phishing emails mapped to 4 PCAPs and traced C2 over DNS/HTTP (T1566.001, T1204.002, T1219).
+- <a href="[link]"><b>Detection Engineering: Attack Simulation in Elastic SIEM</b></a>: simulated a Meterpreter shell, privilege escalation, and exfiltration, then wrote 3 KQL detection rules (T1059.001, T1134.001, T1041).
 
 ---
-
-## 🛡️ What I Do
-
-- Triage and investigate alerts in [Splunk / Sentinel / QRadar / Elastic / Wazuh]
-- Analyze phishing emails, suspicious logins, malware activity, and network traffic
-- Write detection rules mapped to the MITRE ATT&CK framework
-- Document incidents with clear timelines, IOCs, and recommendations
-- [Add something specific you do, e.g. "Reduced false positives by tuning X rules"]
-
-## 🧰 Technical Skills
-
-| Area | Tools & Experience |
-|------|--------------------|
-| **SIEM & Monitoring** | Splunk, Elastic SIEM, IBM QRadar, FortiSIEM, Security Onion |
-| **Network Analysis** | Wireshark, Zeek, Suricata, Snort, Sguil (DNS/HTTP traffic analysis) |
-| **Network Security** | Cisco routing, switching, AAA, ACLs (CCNA labs); FortiGate and FortiAnalyzer log monitoring |
-| **SOAR & Automation** | n8n, Cortex XSOAR, FortiSOAR; Python and JavaScript; REST API integrations (VirusTotal, Gmail) |
-| **Systems** | Windows, Ubuntu, Kali; Windows Event Logs, PowerShell logging, Active Directory activity |
-| **Threat Intel & Analysis** | VirusTotal, Hybrid Analysis, CyberChef |
-| **Frameworks** | MITRE ATT&CK, severity-based incident triage |
-
-## 📂 Featured Projects
-
-### 🤖 [n8n SOC Alert Triage & SOAR Automation Lab](link)
-`n8n` `Python` `REST APIs` `VirusTotal API` `Gmail API`
-Built an automated SOAR workflow that pulls alerts from a security monitoring platform via REST API,
-extracts IPv4 IOCs with Python, filters out private, reserved, and trusted IPs,
-enriches the remaining public IPs with VirusTotal, scores them with risk-based conditional logic,
-and emails an escalation through Gmail when a malicious or suspicious indicator is found.
-**Goal:** cut manual Level 1 investigation work and speed up escalation.
-
-### 🔎 [Network Threat Hunting: Ursnif to TrickBot Infection Chain](link)
-`Security Onion` `Sguil` `Wireshark`
-Correlated Sguil alerts with PCAPs to identify the infected host and reconstruct the full infection chain.
-Documented the timeline, IOCs, and response recommendations in an incident report.
-**ATT&CK:** T1105, T1036.008, T1071.001
-
-### 📧 [Phishing and PCAP Investigation: FormBook and TeamViewer RAT](link)
-`Security Onion` `Zeek` `Kibana` `Wireshark` `CyberChef`
-Analyzed 2 phishing emails mapped to 4 PCAPs.
-Identified a FormBook stealer and a Word/OLE downloader that installed a TeamViewer RAT.
-Traced C2 over DNS/HTTP and separated confirmed from suspected activity using IOCs enriched in VirusTotal and Hybrid Analysis.
-**ATT&CK:** T1566.001, T1204.002, T1219
-
-### ⚔️ [Detection Engineering: Attack Simulation in Elastic SIEM](link)
-`Elastic Stack` `Metasploit` `KQL`
-Simulated a Meterpreter reverse shell, SYSTEM privilege escalation, 
-and C2 exfiltration in an isolated multi-VM lab. Wrote 3 KQL detection rules,
-including PowerShell script block logging (Event ID 4104).
-**ATT&CK:** T1059.001, T1134.001, T1041
-
-## 🎓 Certifications
-
--[Fortinet NSE 4– Certified in FortiOS (Fortinet)]
--[Fortinet NSE 6– FortiSIEM 7.4 Analyst (Fortinet)]
-- 🔄 *In progress:* [SC-200,CDSA]
-
-## 🧪 Currently Working On
-
-- [Example: Studying for BTL1 / SC-200]
-- [Example: Completing the CyberDefenders blue team path]
-
-## 🏆 Practice Platforms
-
-· [TryHackMe: Top 1%]  [https://sl1nk.com/tkwupnr]
-· [CyberDefenders]  [https://cyberdefenders.org/p/mahmoud7atia]
-. [HackTheBox]  [https://profile.hackthebox.com/profile/019ed5a9-947f-70cc-a2af-ca1a2ba5ab7a?utm_medium=copy_url]
+*All projects use publicly available PCAPs or isolated lab data. No employer or confidential information is shared.*
