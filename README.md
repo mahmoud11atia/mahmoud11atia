@@ -12,7 +12,7 @@ To grow as a SOC Analyst by investigating real-world attack chains, building det
 
 | Skill | Associated Project |
 |-------|--------------------|
-| Network Threat Hunting and Infection Chain Reconstruction | <a href="[https://github.com/mahmoud11atia/Detection-Lab]">Ursnif to TrickBot Threat Hunting</a> |
+| Network Threat Hunting and Infection Chain Reconstruction | <a href="https://github.com/mahmoud11atia/Detection-Lab">Ursnif to TrickBot Threat Hunting</a> |
 | Phishing, Malware, and PCAP Investigation | <a href="[link]">FormBook and TeamViewer RAT Investigation</a> |
 | Detection Engineering and Attack Simulation (KQL, MITRE ATT&CK) | <a href="[link]">Elastic SIEM Detection Lab</a> |
 | SIEM Alert Triage and Log Correlation (Windows Event Logs, Sysmon) | <a href="[link]">Elastic SIEM Detection Lab</a> |
