@@ -70,9 +70,16 @@ To grow as a SOC Analyst by investigating real-world attack chains, building det
 </div>
 
 ## Certifications
+
 <div>
-<!-- Add only certifications you actually hold. Example: -->
-<!-- <img src="https://img.shields.io/badge/-CCNA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-Fortinet_NSE_4_FortiOS-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortinet_NSE_6_FortiSIEM_7.4_Analyst-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+</div>
+
+### 🔄 In Progress
+<div>
+    <img src="https://img.shields.io/badge/-SC--200-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTB_CDSA-9FEF00?&style=for-the-badge&logo=HackTheBox&logoColor=black" />
 </div>
 
 ## Projects
