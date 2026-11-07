@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Mahmoud] 👋
 
 ### SOC Analyst | Threat Detection | Incident Response
 
@@ -64,16 +64,6 @@ including PowerShell script block logging (Event ID 4104).
 -[Fortinet NSE 4– Certified in FortiOS (Fortinet)]
 -[Fortinet NSE 6– FortiSIEM 7.4 Analyst (Fortinet)]
 - 🔄 *In progress:* [SC-200,CDSA]
-
-## 📂 Featured Projects
-
-| Project | What it shows |
-|---------|---------------|
-| [**Detection Rules**](link) | [X] Sigma/SPL/KQL rules mapped to ATT&CK, with testing notes |
-| [**Phishing Investigation**](link) | Full email analysis, IOC extraction, and incident report |
-| [**Home SOC Lab**](link) | Wazuh/Splunk lab with attack simulation and custom detections |
-| [**IOC Enrichment Script**](link) | Python tool that checks IPs/hashes against threat intel APIs |
-| [**IR Playbooks**](link) | Step-by-step response guides for common incidents |
 
 ## 🧪 Currently Working On
 
