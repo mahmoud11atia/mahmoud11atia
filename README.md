@@ -72,8 +72,12 @@ To grow as a SOC Analyst by investigating real-world attack chains, building det
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/-Fortinet_NSE_4_FortiOS-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fortinet_NSE_6_FortiSIEM_7.4_Analyst-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <a href="https://www.credly.com/badges/fca7993d-70ef-4184-b28c-ef8221ca0fef/public_url">
+        <img src="https://img.shields.io/badge/-Fortinet_NSE_4_FortiOS-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    </a>
+    <a href="https://www.credly.com/badges/70f088b2-ac31-4b42-8c86-4fded004b3b8/public_url">
+        <img src="https://img.shields.io/badge/-Fortinet_NSE_6_FortiSIEM_7.4_Analyst-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    </a>
 </div>
 
 ### 🔄 In Progress
